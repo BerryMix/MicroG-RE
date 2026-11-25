@@ -74,8 +74,8 @@ buildscript {
 }
 
 // RE specific version name and code
-def ourGmsVersionCode = 255070317
-def ourGmsVersionName = "7.3.3"
+def ourGmsVersionCode = 255070318
+def ourGmsVersionName = "7.3.4"
 def ourVendingVersionCode = ourGmsVersionCode
 def ourVendingVersionName = ourGmsVersionName
 
